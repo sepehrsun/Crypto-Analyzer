@@ -211,7 +211,7 @@ Uses concepts of MVVM Clean Architecture.
 <!-- LICENSE -->
 ## License 
 
-Distributed under the MIT License. See `LICENSE.txt` for more
+Distributed under the MIT License. See `LICENSE` for more
 information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

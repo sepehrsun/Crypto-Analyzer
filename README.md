@@ -219,8 +219,8 @@ information.
 <!-- CONTACT -->
 ## Contact 
 
-Sepehr Nouzarian - sepehr.android@yahoo.com Project Link:
-[https://github.com/sepehrsun/Crypto-Analyzer](https://github.com/sepehrsun/Crypto-Analyzer)
+Sepehr Nouzarian - sepehr.android@yahoo.com 
+Project Link: [https://github.com/sepehrsun/Crypto-Analyzer](https://github.com/sepehrsun/Crypto-Analyzer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

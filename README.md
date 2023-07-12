@@ -8,9 +8,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sepehrsun/Crypto-Analyzer">
+  <a href="https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer">
     <img
-      src="https://github.com/sepehrsun/Crypto-Analyzer/blob/master/app/src/main/res/drawable/ic_launcher.png?raw=true"
+      src="https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer/blob/master/app/src/main/res/drawable/ic_launcher.png?raw=true"
       alt="Logo"
       width="80"
       height="80"
@@ -23,11 +23,11 @@
     This app show list of gainers in 3 major crypto analytics sites.
     <br />
     <br />
-    <a href="https://github.com/sepehrsun/Crypto-Analyzer">View Demo</a>
+    <a href="https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer">View Demo</a>
     ·
-    <a href="https://github.com/sepehrsun/Crypto-Analyzer/issues">Report Bug</a>
+    <a href="https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer/issues">Report Bug</a>
     ·
-    <a href="https://github.com/sepehrsun/Crypto-Analyzer/issues"
+    <a href="https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer/issues"
       >Request Feature</a
     >
   </p>
@@ -63,7 +63,7 @@ development trend.
 
 ## Screenshots 
 
-<img src="https://github.com/sepehrsun/Crypto-Analyzer/blob/master/Screenshot.png?raw=true" alt="drawing" style="width:200px;"/>
+<img src="https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer/blob/master/Screenshot.png?raw=true" alt="drawing" style="width:200px;"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,20 +221,20 @@ information.
 
 Sepehr Nouzarian - sepehr.android@yahoo.com
 
-Project Link: [https://github.com/sepehrsun/Crypto-Analyzer](https://github.com/sepehrsun/Crypto-Analyzer)
+Project Link: [https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer](https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]:https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]:https://github.com/sepehrsun/Crypto-Analyzer/graphs/contributors 
+[contributors-url]:https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer/graphs/contributors 
 [stars-shield]:https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/sepehrsun/Crypto-Analyzer/stargazers
+[stars-url]: https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer/stargazers
 [issues-shield]:https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/sepehrsun/Crypto-Analyzer/issues
+[issues-url]: https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer/issues
 [license-shield]:https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]:https://github.com/sepehrsun/Crypto-Analyzer/blob/master/LICENSE.txt
+[license-url]:https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer/blob/master/LICENSE.txt
 [linkedin-shield]:https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sepehr-nozaryian-4856ba64/
-[product-screenshot]: https://github.com/sepehrsun/Crypto-Analyzer/blob/master/Screenshot.png?raw=true
+[product-screenshot]: https://github.com/sepehrsun/MVVM-Clean-Architecture-Crypto-Analyzer/blob/master/Screenshot.png?raw=true

@@ -17,7 +17,7 @@
     />
   </a>
 
-  <h3 align="center">Crypto-Analyzer</h3>
+  <h3 align="center">MVVM-Clean-Architecture-Crypto-Analyzer</h3>
 
   <p align="center">
     This app show list of gainers in 3 major crypto analytics sites.
@@ -63,7 +63,7 @@ development trend.
 
 ## Screenshots 
 
-[![Product Name Screen Shot][product-screenshot]]
+<img src="https://github.com/sepehrsun/Crypto-Analyzer/blob/master/Screenshot.png?raw=true" alt="drawing" style="width:200px;"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -237,4 +237,4 @@ Project Link: [https://github.com/sepehrsun/Crypto-Analyzer](https://github.com/
 [license-url]:https://github.com/sepehrsun/Crypto-Analyzer/blob/master/LICENSE.txt
 [linkedin-shield]:https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/sepehr-nozaryian-4856ba64/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/sepehrsun/Crypto-Analyzer/blob/master/Screenshot.png?raw=true
